@@ -61,16 +61,7 @@
 <!-- WhatsApp Badge -->
 <img src="https://img.shields.io/badge/Contact-%2B91%209391970347-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
 
-<!-- Email Badges (Side by Side, lowercase with underscores preserved) -->
-<p>
-  <a href="mailto:shaik_mohammhd@srmap.edu.in" target="_blank">
-    <img src="https://img.shields.io/badge/email-shaik_mohammhd@srmap.edu.in-blue?style=for-the-badge&logo=gmail&logoColor=white&label=email" alt="email1" />
-  </a>
-
-  <a href="mailto:skmohammad378@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-skmohammad378@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&label=email" alt="email2" />
-  </a>
-</p>
+<p><strong>Email</strong>shaik_mohammhd@srmap.edu.in | skmohammad378@gmail.com</p>
 
 
 
