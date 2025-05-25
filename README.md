@@ -1,41 +1,34 @@
+<h1>🔥 Shaik Mohammad - Code Wizard 🚀  🎓 B.Tech (CSE) 3rd-Year @ SRM AP | 💻 Full-Stack Rockstar & AI Trailblazer </h1>
+<p>Yo, I’m Shaik, a coding beast who transforms coffee into killer apps! 🤖 I master C, C++, Python, Java, JavaScript, PHP, & SQL, building everything from Spotify Clones to AI-powered food recognizers. Obsessed with clean code, slick algorithms, and jaw-dropping tech. Ready to join a crew and ship epic solutions? Let’s dive in! 😎</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/sk-mohammad-862994165" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikMohammad786&show_icons=true&locale=en" alt="ShaikMohammad786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMohammad786&" alt="ShaikMohammad786" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaikMohammad786&show_icons=true&locale=en&layout=compact" alt="ShaikMohammad786" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShaikMohammad786" alt="ShaikMohammad786" /></a></p>
 
-🔥 Shaik Mohammad - Code Wizard 🚀
-
-
-🎓 B.Tech (CSE) 3rd-Year @ SRM AP | 💻 Full-Stack Rockstar & AI Trailblazer
-Yo, I’m Shaik, a coding beast who transforms coffee into killer apps! 🤖 I master C, C++, Python, Java, JavaScript, PHP, & SQL, building everything from Spotify Clones to AI-powered food recognizers. Obsessed with clean code, slick algorithms, and jaw-dropping tech. Ready to join a crew and ship epic solutions? Let’s dive in! 😎
-
-🧙‍♂️ Superpowers
-
-🌐 Full-Stack Magic: Crafting responsive web apps with HTML, CSS, JS, PHP, MySQL & diving into MERN Stack.  
-🧠 AI Wizardry: Building smart systems like FoodSnapChef with deep learning & APIs.  
-⚡ DSA : Optimizing apps with data structures & algorithms via competitive programming.  
-🗄️ DB : Designing sleek MySQL schemas for seamless data flow.  
-🚀 More to Come: Always leveling up with new skills!
-
-
-
-
-⚙️ Tech Arsenal
-
-Code: C C++ Python Java JS PHP SQL  
-Web: HTML CSS Bootstrap MySQL REST APIs MERN  
-Tools: Git VS Code XAMPP Figma  
-Skills: Coding, Algorithms, Modular Design, DB Optimization, Machine Learning, API Management
-
-
-🌟 Vibes & Hobbies
-
-🧩 Dominating LeetCode, HackerRank, & Codeforces.  
-🌍 Contributing to open-source AI & web dev projects.  
-📚 Geeking out on tech blogs & innovation reads.
-
-
-📡 Ping Me
-
-LinkedIn: www.linkedin.com/in/sk-mohammad-862994165
-Email: shaik_mohammhd@srmap.edu.in | skmohammad378@gmail.com  
-Contact: +91 9391970347  
-
-
-Updated: May 20, 2025
