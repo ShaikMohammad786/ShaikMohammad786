@@ -53,7 +53,10 @@
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/sk-mohammad-862994165"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 </p>
-<img src="https://img.shields.io/badge/Email-shaik_mohammhd@srmap.edu.in%20|%20skmohammad378@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /> 
+<div style="display: inline-flex; background-color: #007bff; color: white; font-weight: bold; border-radius: 4px; padding: 8px 12px; font-family: sans-serif; gap: 10px;">
+  <a href="mailto:shaik_mohammhd@srmap.edu.in" style="color: white; text-decoration: none;">shaik_mohammhd@srmap.edu.in</a> |
+  <a href="mailto:skmohammad378@gmail.com" style="color: white; text-decoration: none;">skmohammad378@gmail.com</a>
+</div>
 <img src="https://img.shields.io/badge/Contact-%2B91%209391970347-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
 
 
