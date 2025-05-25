@@ -69,4 +69,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMohammad786&" alt="ShaikMohammad786" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaikMohammad786&show_icons=true&locale=en&layout=compact" alt="ShaikMohammad786" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShaikMohammad786" alt="ShaikMohammad786" /></a></p>
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/ShaikMohammad786/ShaikMohammad786/blob/output/github-contribution-grid-snake.svg)
+
+
 <p>Last Updated: May 24, 2025</p>
