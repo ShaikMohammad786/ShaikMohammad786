@@ -50,14 +50,27 @@
 </ul>
 
 <h2>⚡️ Ping Me!</h2>
+
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/sk-mohammad-862994165"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <!-- LinkedIn Badge -->
+  <a target="_blank" href="https://www.linkedin.com/in/sk-mohammad-862994165">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
 </p>
-<div style="display: inline-flex; background-color: #007bff; color: white; font-weight: bold; border-radius: 4px; padding: 8px 12px; font-family: sans-serif; gap: 10px;">
-  <a href="mailto:shaik_mohammhd@srmap.edu.in" style="color: white; text-decoration: none;">shaik_mohammhd@srmap.edu.in</a> |
-  <a href="mailto:skmohammad378@gmail.com" style="color: white; text-decoration: none;">skmohammad378@gmail.com</a>
-</div>
+
+<!-- WhatsApp Badge -->
 <img src="https://img.shields.io/badge/Contact-%2B91%209391970347-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
+
+<!-- Email Badges (Side by Side, Separate Clickable Areas) -->
+<p>
+  <a href="mailto:shaik_mohammhd@srmap.edu.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-shaik_mohammhd@srmap.edu.in-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email SRM" />
+  </a>
+
+  <a href="mailto:skmohammad378@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-skmohammad378@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gmail" />
+  </a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikMohammad786&show_icons=true&locale=en" alt="ShaikMohammad786" /></p>
