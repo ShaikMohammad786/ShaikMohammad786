@@ -61,9 +61,9 @@
 <!-- WhatsApp Badge -->
 <img src="https://img.shields.io/badge/Contact-%2B91%209391970347-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
 
-<p><strong>Email</strong>shaik_mohammhd@srmap.edu.in | skmohammad378@gmail.com</p>
+<p><strong> Email: </strong> shaik_mohammhd@srmap.edu.in | skmohammad378@gmail.com</p>
 
-
+ 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikMohammad786&show_icons=true&locale=en" alt="ShaikMohammad786" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMohammad786&" alt="ShaikMohammad786" /></p>
